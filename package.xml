@@ -6,5 +6,9 @@
         <members>IME__c</members>
         <name>CustomObject</name>
     </types>
+    <types>
+        <members>Hearing_Deposition</members>
+        <name>PermissionSet</name>
+    </types>
     <version>47.0</version>
 </Package>
